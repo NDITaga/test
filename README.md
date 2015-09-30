@@ -1,6 +1,7 @@
 # test
-Github¤Î¥Æ¥¹¥È
 
-##¥á¥ó¥Ð©`
+Github test
+
+##member
 
 *testmember
